@@ -191,7 +191,7 @@
       },
       {
         "name": "v9",
-        "tag": "v9.0.0",
+        "tag": "v9.0.1-rc2",
         "height": 8983000,
         "proposal": 40,
         "go_version": "1.21",
@@ -204,7 +204,8 @@
           "version": "v0.37.4"
         },
         "binaries": {
-          "linux/amd64": "https://github.com/burnt-labs/xion/releases/download/v9.0.0/xiond-v9.0.0-linux-amd64?checksum=sha256:dc25db91e7a3e9befbc1e96c76f6537461812466a28df9484d71838e7c4967f1"
+          "linux-amd64": "https://github.com/burnt-labs/xion/releases/download/v9.0.1-rc2/xiond-v9.0.1-rc2-linux-amd64?checksum=sha256:a2436eda3e4076021f8643d4f8c92f2a2f2751d5d083372339f77ca32d31e476",
+          "linux-arm64": "https://github.com/burnt-labs/xion/releases/download/v9.0.1-rc2/xiond-v9.0.1-rc2-linux-arm64?checksum=sha256:ed9ba497c8b961f3428e0e9050130f7cce6f220b36ee274a501eecadeed1c506"
         }
       }
     ]
